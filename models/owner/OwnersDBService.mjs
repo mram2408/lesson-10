@@ -1,4 +1,4 @@
-import CRUDManager from "../CRUDmanager.mjs";
+import CRUDManager from "../CRUDManager.mjs";
 import Owner from "./Owner.mjs";
 
 class OwnersDBService extends CRUDManager {}
